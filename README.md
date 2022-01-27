@@ -14,35 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Skills
+## Skills
 
-## Programming
+### Programming
 
-### Backend
+#### Backend
 - API Development
 - Python | FLASK
 - NodeJS | ExpressJS
 
-### Frontend
+#### Frontend
 - HTML/CSS
 - Javascript | Angular
 
-## Data Analysis
+### Data Analysis
 
-### SQL
+#### SQL
 - Postgres
 - SQL Server
 - Snowflake
 
-### Python
+#### Python
 - Pandas
 - SQL Alchemy
 
-## Cloud
+### Cloud
 - Google Cloud Platform
 - Microsoft Azure
 
-## Devops
+### Devops
 - Nomad
 - Openshift
 - Linux
