@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there I'm Matthijs!
 
 <!--
 **matthijsw95/matthijsw95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Skills
+
+## Programming
+
+### Backend
+- API Development
+- Python | FLASK
+- NodeJS | ExpressJS
+
+### Frontend
+- HTML/CSS
+- Javascript | Angular
+
+## Data Analysis
+
+### SQL
+- Postgres
+- SQL Server
+- Snowflake
+
+### Python
+- Pandas
+- SQL Alchemy
+
+## Cloud
+- Google Cloud Platform
+- Microsoft Azure
+
+## Devops
+- Nomad
+- Openshift
+- Linux
+- Jenkins
+- Github
